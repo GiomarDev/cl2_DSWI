@@ -1,0 +1,68 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    @Styles.Render("~/Content/css")
+</head>
+<body>
+    <header>
+        <nav class="menu">
+            <ul>
+                <li>@Html.ActionLink("PRINCIPAL", "Index", "Tienda")</li>
+                <li>
+                    CLIENTE
+                    <ul>
+                        <li>LISTADO GENERAL</li>
+                        <li>NUEVO CLIENTE</li>
+                    </ul>
+                </li>
+                <li>
+                    ORDEN DE COMPRA
+                    <ul>
+                        <li>LISTADO ORDENES DE COMPRA</li>
+                        <li>GENERAR ORDEN DE COMPRA</li>
+                    </ul>
+                </li>
+                <li>
+                    VENTA
+                    <ul>
+                        <li>@Html.ActionLink("GENERAR VENTA", "carritoCompras", "Libro")</li>
+                        <li>LISTADO DE FACTURAS</li>
+                    </ul>
+                </li>
+                <li>
+                    PRODUCTO
+                    <ul>
+                        <li>LISTADO GENERAL</li>
+                        <li>NUEVO PRODUCTO</li>
+                    </ul>
+                </li>
+                <li>
+                    VENDEDOR
+                    <ul>
+                        <li>LISTADO GENERAL</li>
+                        <li>NUEVO VENDEDOR</li>
+                    </ul>
+                </li>
+                <li>
+                    PROVEEDOR
+                    <ul>
+                        <li>@Html.ActionLink("LISTADO GENERAL", "proveedores", "Ventas")</li>
+                        <li>@Html.ActionLink("NUEVO PROVEEDOR", "Agregar", "Ventas")</li>
+                    </ul>
+                </li>
+            </ul>
+        </nav>
+    </header>
+    <figure>
+        <img id="banner" src="~/Imagenes/banner.jpg" />
+    </figure>
+    @RenderBody()
+    <footer>
+        <h6>Todos los derechos reservados para Giomar Limo y Valeria Gabancho</h6>
+    </footer>
+
+</body>
+</html>

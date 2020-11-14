@@ -1,0 +1,17 @@
+﻿@model IEnumerable<CL2.Models.Libro>
+
+@foreach (var item in Model)
+{ 
+
+    <section class="bloque">
+        <img class="imgArt" src="@Url.Content(item.foto)" /><br />
+        <strong>@Html.DisplayNameFor(model => model.codigo)</strong> : @Html.DisplayFor(modelItem => item.codigo)<br />
+        <strong>@Html.DisplayNameFor(model => model.autor)</strong> : @Html.DisplayFor(modelItem => item.autor)<br />
+        <strong>@Html.DisplayNameFor(model => model.titulo)</strong> : @Html.DisplayFor(modelItem => item.titulo)<br />
+        <strong>@Html.DisplayNameFor(model => model.editorial)</strong> : @Html.DisplayFor(modelItem => item.editorial)<br />
+        <strong>@Html.DisplayNameFor(model => model.costo)</strong> : S/@item.costo.ToString("0.00")<br />
+        <strong>@Html.DisplayNameFor(model => model.cantidad)</strong> : @Html.DisplayFor(modelItem => item.cantidad)<br />
+        @Html.ActionLink("ADQUIRIR", "seleccionarProducto", new { id = item.codigo }, new { @class = "btn btn-success" })
+    </section>
+
+}

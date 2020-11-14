@@ -1,0 +1,20 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutPrincipal.cshtml";
+}
+
+<h2>Pagina Principal</h2>
+
+<section id="columna">
+<table>
+
+    <tr>
+        <td>
+            <img id="logo" src="~/Imagenes/libro.jpg" />
+        </td>
+        <td>@Html.ActionLink("GENERAR VENTA", "carritoCompras", "Libro")</td>
+    </tr>
+
+</table>
+</section>

@@ -1,0 +1,28 @@
+﻿@model CL2.Models.Libro
+
+@{
+    ViewBag.Title = "seleccionarProducto";
+    Layout = "~/Views/Shared/_LayoutPrincipal.cshtml";
+}
+
+<h2>Proceso de seleccion de Libros</h2>
+@Html.Partial("_PartialRegistroLibro")
+
+<section id="columna2">
+    <section class="panel-primary">
+        <section class="panel-heading">
+            INGRESE CANTIDAD: 
+        </section>
+        <section class="panel-body">
+            @using (Html.BeginForm("agregaLibro", "Libro"))
+            {
+                @Html.Hidden("id",Model.codigo,new { @class = "form-control"})
+                @Html.TextBox("cant", "", new { @class = "form-control" })
+                @Html.ActionLink("CANCELAR", "carritoCompras", "Libro",new { @class = "btn btn-danger"})
+                <input type="submit" value="Aceptar" class="btn btn-success"/>
+
+            }
+
+        </section>
+    </section>
+</section>

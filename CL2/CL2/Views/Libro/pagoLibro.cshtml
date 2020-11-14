@@ -1,0 +1,72 @@
+﻿@model IEnumerable<CL2.Models.Item>
+
+@{
+    ViewBag.Title = "pagoLibro";
+    Layout = "~/Views/Shared/_LayoutPrincipal.cshtml";
+}
+
+@Html.ActionLink(">Retornar", "carritoCompras", "", new { @class = "btn btn-primary" })
+<section class="panel-primary">
+    <section class="panel-heading">
+        Realizar Transaccion
+    </section>
+    <section class="panel-body">
+        @using (Html.BeginForm("finalizarVenta","Libro"))
+        {
+            @Html.Label("Ingrese DNI")
+            @Html.TextBox("dni", "", new { @class = "form-control" })
+            @Html.Label("Nombres y Apellidos")
+            @Html.TextBox("nom", "", new { @class = "form-control" })
+            <input type="submit" value="ACEPTAR" />
+        }
+    </section>
+</section>
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.codigo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.titulo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.costo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.cantidad)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.subTotal)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.foto)
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.codigo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.titulo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.costo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.cantidad)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.subTotal)
+            </td>
+            <td>
+                <img class="imgPro" src="@Url.Content(item.foto)" />
+            </td>
+        </tr>
+    }
+
+</table>
