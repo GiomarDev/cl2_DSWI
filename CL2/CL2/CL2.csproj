@@ -165,6 +165,7 @@
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
     <Content Include="Imagenes\banner.jpg" />
+    <Content Include="Imagenes\bannner2.jpg" />
     <Content Include="Imagenes\libro.jpg" />
     <Content Include="Imagenes\venta.jpg" />
     <Content Include="Scripts\bootstrap.js" />

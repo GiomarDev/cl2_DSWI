@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "waAutorClient", "waAutorClient\waAutorClient.csproj", "{0EC6583F-4870-42C0-8D4E-0B33490B1E36}"
+	ProjectSection(ProjectDependencies) = postProject
+		{08CAC3A5-0C9D-4B37-942D-71F256B88205} = {08CAC3A5-0C9D-4B37-942D-71F256B88205}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfEditorial", "WcfEditorial\WcfEditorial.csproj", "{08CAC3A5-0C9D-4B37-942D-71F256B88205}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EC6583F-4870-42C0-8D4E-0B33490B1E36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EC6583F-4870-42C0-8D4E-0B33490B1E36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EC6583F-4870-42C0-8D4E-0B33490B1E36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EC6583F-4870-42C0-8D4E-0B33490B1E36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08CAC3A5-0C9D-4B37-942D-71F256B88205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08CAC3A5-0C9D-4B37-942D-71F256B88205}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08CAC3A5-0C9D-4B37-942D-71F256B88205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08CAC3A5-0C9D-4B37-942D-71F256B88205}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {317E7C0C-3110-481F-841C-1DCFA1834F42}
+	EndGlobalSection
+EndGlobal

@@ -9,5 +9,6 @@
     <center><img src="~/Imagenes/venta.jpg" /></center>
     <section id="monto">
         <center>TOTAL A PAGAR : S/@(((decimal)ViewBag.total).ToString("0.00"))</center>
-    </section>
+    </section><br /><br />
+    <center>@Html.ActionLink("Pagina Principal", "carritoCompras", "", new { @class = "btn btn-primary" })</center>
 </section>

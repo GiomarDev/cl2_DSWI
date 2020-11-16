@@ -1,0 +1,13 @@
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\WcfEditorial\obj\Debug\WcfEditorial.csprojAssemblyReference.cache
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\WcfEditorial\obj\Debug\WcfEditorial.csproj.CoreCompileInputs.cache
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\WcfEditorial\bin\WcfEditorial.dll.config
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\WcfEditorial\bin\WcfEditorial.dll
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\WcfEditorial\bin\WcfEditorial.pdb
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\WcfEditorial\obj\Debug\WcfEditorial.dll
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\WcfEditorial\obj\Debug\WcfEditorial.pdb
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\WcfEditorial\bin\WcfEditorial.dll.config
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\WcfEditorial\bin\WcfEditorial.dll
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\WcfEditorial\bin\WcfEditorial.pdb
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\WcfEditorial\obj\Debug\WcfEditorial.csproj.CoreCompileInputs.cache
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\WcfEditorial\obj\Debug\WcfEditorial.dll
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\WcfEditorial\obj\Debug\WcfEditorial.pdb

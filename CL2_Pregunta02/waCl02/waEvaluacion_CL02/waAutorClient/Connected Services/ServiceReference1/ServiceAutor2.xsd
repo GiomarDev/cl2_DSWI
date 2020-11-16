@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:50887/ServiceAutor.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/WcfEditorial" />
+  <xs:element name="listadoAutores">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="listadoAutoresResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/WcfEditorial" minOccurs="0" name="listadoAutoresResult" nillable="true" type="q1:ArrayOfAutor" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="listadoAutoresO">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="listadoAutoresOResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q2="http://schemas.datacontract.org/2004/07/WcfEditorial" minOccurs="0" name="listadoAutoresOResult" nillable="true" type="q2:ArrayOfAutorO" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="listadoPais">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="listadoPaisResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q3="http://schemas.datacontract.org/2004/07/WcfEditorial" minOccurs="0" name="listadoPaisResult" nillable="true" type="q3:ArrayOfPais" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="nuevoAutor">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q4="http://schemas.datacontract.org/2004/07/WcfEditorial" minOccurs="0" name="objA" nillable="true" type="q4:AutorO" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="nuevoAutorResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="nuevoAutorResult" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="actualizaAutor">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q5="http://schemas.datacontract.org/2004/07/WcfEditorial" minOccurs="0" name="objA" nillable="true" type="q5:AutorO" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="actualizaAutorResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="actualizaAutorResult" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="eliminaAutor">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q6="http://schemas.datacontract.org/2004/07/WcfEditorial" minOccurs="0" name="objA" nillable="true" type="q6:AutorO" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="eliminaAutorResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

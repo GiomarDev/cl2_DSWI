@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/1.1.3/sweetalert.css" />
+    <script type="text/javascript"
+            src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/1.1.3/sweetalert.min.js">
+    </script>
+    <title>@ViewBag.Title</title>
+    @Styles.Render("~/content/css")
+</head>
+<body>
+    <header>
+        <nav class="menu">
+            <ul>
+                <li>@Html.ActionLink("Principal", "Index", "Autor")</li>
+                <li>
+                    AUTOR
+                    <ul>
+                        <li>@Html.ActionLink("Listado de Autores", "listadoAutores", "Autor")</li>
+                        <li>@Html.ActionLink("Nuevo Autor", "nuevoAutor", "Autor")</li>
+                </ul>
+            </li>
+        </ul>
+    </nav>
+</header>
+@RenderBody()
+<footer>
+    <h6>&copy; Todos los derechos reservados@MTR</h6>
+</footer>
+</body>
+</html>

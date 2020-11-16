@@ -1,0 +1,171 @@
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\waAutorClient.dll.config
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\waAutorClient.dll
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\waAutorClient.pdb
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\csc.exe
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\csc.exe.config
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\csc.rsp
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\csi.exe
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\csi.exe.config
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\csi.rsp
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\System.AppContext.dll
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\System.Console.dll
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\System.IO.Compression.dll
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\System.Net.Http.dll
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\System.ValueTuple.dll
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\vbc.exe
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\vbc.exe.config
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\vbc.rsp
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\VBCSCompiler.exe
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\Antlr3.Runtime.dll
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\Newtonsoft.Json.dll
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\System.Web.Helpers.dll
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\System.Web.Mvc.dll
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\System.Web.Optimization.dll
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\System.Web.Razor.dll
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\System.Web.WebPages.dll
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\System.Web.WebPages.Razor.dll
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\WebGrease.dll
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\System.Web.Helpers.xml
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\System.Web.Mvc.xml
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\System.Web.Optimization.xml
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\System.Web.Razor.xml
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\System.Web.WebPages.xml
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\System.Web.WebPages.Razor.xml
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\Newtonsoft.Json.xml
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\Antlr3.Runtime.pdb
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\es\System.Web.Razor.resources.dll
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\obj\Debug\waAutorClient.csprojAssemblyReference.cache
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\obj\Debug\waAutorClient.csproj.CoreCompileInputs.cache
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\obj\Debug\waAutorClient.csproj.CopyComplete
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\obj\Debug\waAutorClient.dll
+C:\Users\Juan\OneDrive\Escritorio\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\obj\Debug\waAutorClient.pdb
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\waAutorClient.dll.config
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\waAutorClient.dll
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\waAutorClient.pdb
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\csc.exe
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\csc.exe.config
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\csc.rsp
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\csi.exe
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\csi.exe.config
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\csi.rsp
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\System.AppContext.dll
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\System.Collections.Immutable.dll
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\System.Console.dll
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\System.Globalization.Calendars.dll
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\System.IO.Compression.dll
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\System.IO.FileSystem.dll
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\System.Net.Http.dll
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\System.Net.Sockets.dll
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\System.Reflection.Metadata.dll
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\System.ValueTuple.dll
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\System.Xml.XPath.dll
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\vbc.exe
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\vbc.exe.config
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\vbc.rsp
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\VBCSCompiler.exe
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\roslyn\VBCSCompiler.exe.config
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\Antlr3.Runtime.dll
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\Microsoft.Web.Infrastructure.dll
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\Newtonsoft.Json.dll
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\System.Web.Helpers.dll
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\System.Web.Mvc.dll
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\System.Web.Optimization.dll
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\System.Web.Razor.dll
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\System.Web.WebPages.Deployment.dll
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\System.Web.WebPages.dll
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\System.Web.WebPages.Razor.dll
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\WebGrease.dll
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\System.Web.Helpers.xml
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\System.Web.Mvc.xml
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\System.Web.Optimization.xml
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\System.Web.Razor.xml
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\System.Web.WebPages.xml
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\System.Web.WebPages.Deployment.xml
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\System.Web.WebPages.Razor.xml
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\Newtonsoft.Json.xml
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\Antlr3.Runtime.pdb
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\es\System.Web.Helpers.resources.dll
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\es\System.Web.Mvc.resources.dll
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\es\System.Web.Optimization.resources.dll
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\es\System.Web.Razor.resources.dll
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\es\System.Web.WebPages.resources.dll
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\obj\Debug\waAutorClient.csproj.CoreCompileInputs.cache
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\obj\Debug\waAutorClient.csproj.CopyComplete
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\obj\Debug\waAutorClient.dll
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\EVALUACION_CL02\waCl02\waEvaluacion_CL02\waAutorClient\obj\Debug\waAutorClient.pdb

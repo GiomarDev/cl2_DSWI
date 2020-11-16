@@ -79,8 +79,8 @@ D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\CL2\CL2\bin\es\System.We
 D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\CL2\CL2\bin\es\System.Web.WebPages.resources.dll
 D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\CL2\CL2\bin\es\System.Web.WebPages.Deployment.resources.dll
 D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\CL2\CL2\bin\es\System.Web.WebPages.Razor.resources.dll
-D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\CL2\CL2\obj\Debug\CL2.csprojAssemblyReference.cache
 D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\CL2\CL2\obj\Debug\CL2.csproj.CoreCompileInputs.cache
 D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\CL2\CL2\obj\Debug\CL2.csproj.CopyComplete
 D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\CL2\CL2\obj\Debug\CL2.dll
 D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\CL2\CL2\obj\Debug\CL2.pdb
+D:\Ciclo05\DESARROLLO DE SERVICIOS WEB I\Examen_cl2\CL2\CL2\CL2\obj\Debug\CL2.csprojAssemblyReference.cache

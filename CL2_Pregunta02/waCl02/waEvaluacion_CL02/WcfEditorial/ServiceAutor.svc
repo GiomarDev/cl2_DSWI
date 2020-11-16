@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="WcfEditorial.ServiceAutor" CodeBehind="ServiceAutor.svc.cs" %>

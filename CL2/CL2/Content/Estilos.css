@@ -1,16 +1,18 @@
 ﻿body {
-    width: 1400px;
-    margin-left: auto;
-    margin-right: auto;
+    width: auto;
+    margin-left: 1px;
+    margin-right: 1px;
     font-size: 12px;
+    background-color: azure;
 }
 
 #banner {
-    width: 1370px;
+    width: 1400px;
+    height: 200px;
 }
 
 h2, h4, h6 {
-    font-family: Tahoma;
+    font-family: 'Comic Sans MS';
     text-align: center;
 }
 
@@ -21,7 +23,7 @@ h2, h4, h6 {
     height: 5%;
     display: flex;
     color: white;
-    background-color: darkcyan;
+    background-color: darkblue;
 }
 
     .menu ul {
@@ -51,7 +53,7 @@ h2, h4, h6 {
     .menu ul li:hover > ul {
         transform: rotateY(0deg) scale(1);
         transition: all 1s;
-        background-color: darkolivegreen;
+        background-color: dodgerblue;
     }
 
 a {
@@ -70,7 +72,7 @@ table {
 }
 
 footer {
-    background-color: darkcyan;
+    background-color: darkblue;
     position: fixed;
     padding: 0px;
     bottom: 0px;
@@ -136,7 +138,7 @@ footer {
 }
 
 #monto {
-    font-family: 'Trebuchet MS';
+    font-family: 'Comic Sans MS';
     font-size: 24px;
 }
 

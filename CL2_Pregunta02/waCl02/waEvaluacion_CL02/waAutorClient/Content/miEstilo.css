@@ -1,0 +1,61 @@
+﻿body {
+    font-family: Tahoma;
+    margin: 0 auto;
+    width: 960px;
+}
+
+h2, h4, h6 {
+    text-align: center;
+}
+
+.menu {
+    position: absolute;
+    top: 0px;
+    width: 960px;
+    height: 6.5%;
+    color: white;
+    background-color: gold;
+}
+
+    .menu ul {
+        display: flex;
+        margin: auto;
+    }
+
+    .menu li {
+        list-style: none;
+        padding: 10px 20px;
+    }
+
+        .menu li:hover {
+            background-color: crimson;
+            cursor: pointer;
+        }
+
+    .menu ul li ul {
+        flex-direction: column;
+        position: absolute;
+        background-color: black;
+        margin-top: 15px;
+        transform: rotateY(240deg) scale(0);
+        transition: all 1s;
+    }
+
+    .menu ul li:hover > ul {
+        transform: rotateY(0deg) scale(1);
+        transition: all 1s;
+        background-color: gold;
+    }
+
+footer {
+    height: 20px;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    clear: both;
+}
+
+#banner {
+    width: 960px;
+    height: 450px;
+}

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/WcfEditorial" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/WcfEditorial" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="ArrayOfAutor">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Autor" nillable="true" type="tns:Autor" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfAutor" nillable="true" type="tns:ArrayOfAutor" />
+  <xs:complexType name="Autor">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="codigo" type="xs:int" />
+      <xs:element minOccurs="0" name="correo" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="nombre" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="pais" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="telefono" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Autor" nillable="true" type="tns:Autor" />
+  <xs:complexType name="ArrayOfAutorO">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="AutorO" nillable="true" type="tns:AutorO" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfAutorO" nillable="true" type="tns:ArrayOfAutorO" />
+  <xs:complexType name="AutorO">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="codigo" type="xs:int" />
+      <xs:element minOccurs="0" name="correo" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="nombre" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="pais" type="xs:int" />
+      <xs:element minOccurs="0" name="telefono" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="AutorO" nillable="true" type="tns:AutorO" />
+  <xs:complexType name="ArrayOfPais">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Pais" nillable="true" type="tns:Pais" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfPais" nillable="true" type="tns:ArrayOfPais" />
+  <xs:complexType name="Pais">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="codigo" type="xs:int" />
+      <xs:element minOccurs="0" name="nombre" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Pais" nillable="true" type="tns:Pais" />
+</xs:schema>

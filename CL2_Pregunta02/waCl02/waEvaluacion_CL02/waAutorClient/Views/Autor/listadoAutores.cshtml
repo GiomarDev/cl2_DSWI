@@ -1,0 +1,55 @@
+﻿@model IEnumerable<waAutorClient.ServiceReference1.Autor>
+
+@{
+    ViewBag.Title = "listadoAutores";
+    Layout = "~/Views/Shared/_LayoutPrincipal.cshtml";
+}
+
+<h2>LISTADO DE AUTORES</h2>
+<table class="table">
+    <tr>
+        <th>
+            @Html.Label("CODIGO")
+        </th>
+        <th>
+            @Html.Label("NOMBRE")
+        </th>
+        <th>
+            @Html.Label("PAIS")
+        </th>
+        <th>
+            @Html.Label("CORREO")
+        </th>
+        <th>
+            @Html.Label("TELEFONO")
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.codigo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.pais)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.correo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.telefono)
+            </td>
+            <td>
+                @Html.ActionLink(" ", "actualizaAutor", new { id = item.codigo }, new { @class = "glyphicon glyphicon-pencil" })
+                @Html.ActionLink(" ", "detalleAutor", new { id = item.codigo }, new { @class = "glyphicon glyphicon-plus" })
+                @Html.ActionLink(" ", "eliminaAutor", new { id = item.codigo }, new { @class = "glyphicon glyphicon-trash" })
+            </td>
+        </tr>
+    }
+
+</table>

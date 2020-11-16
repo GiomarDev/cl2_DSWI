@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="ServiceAutor" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost:50887/ServiceAutor.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost:50887/ServiceAutor.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost:50887/ServiceAutor.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/WcfEditorial" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IServiceAutor_listadoAutores_InputMessage">
+    <wsdl:part name="parameters" element="tns:listadoAutores" />
+  </wsdl:message>
+  <wsdl:message name="IServiceAutor_listadoAutores_OutputMessage">
+    <wsdl:part name="parameters" element="tns:listadoAutoresResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceAutor_listadoAutoresO_InputMessage">
+    <wsdl:part name="parameters" element="tns:listadoAutoresO" />
+  </wsdl:message>
+  <wsdl:message name="IServiceAutor_listadoAutoresO_OutputMessage">
+    <wsdl:part name="parameters" element="tns:listadoAutoresOResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceAutor_listadoPais_InputMessage">
+    <wsdl:part name="parameters" element="tns:listadoPais" />
+  </wsdl:message>
+  <wsdl:message name="IServiceAutor_listadoPais_OutputMessage">
+    <wsdl:part name="parameters" element="tns:listadoPaisResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceAutor_nuevoAutor_InputMessage">
+    <wsdl:part name="parameters" element="tns:nuevoAutor" />
+  </wsdl:message>
+  <wsdl:message name="IServiceAutor_nuevoAutor_OutputMessage">
+    <wsdl:part name="parameters" element="tns:nuevoAutorResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceAutor_actualizaAutor_InputMessage">
+    <wsdl:part name="parameters" element="tns:actualizaAutor" />
+  </wsdl:message>
+  <wsdl:message name="IServiceAutor_actualizaAutor_OutputMessage">
+    <wsdl:part name="parameters" element="tns:actualizaAutorResponse" />
+  </wsdl:message>
+  <wsdl:message name="IServiceAutor_eliminaAutor_InputMessage">
+    <wsdl:part name="parameters" element="tns:eliminaAutor" />
+  </wsdl:message>
+  <wsdl:message name="IServiceAutor_eliminaAutor_OutputMessage">
+    <wsdl:part name="parameters" element="tns:eliminaAutorResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IServiceAutor">
+    <wsdl:operation name="listadoAutores">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceAutor/listadoAutores" message="tns:IServiceAutor_listadoAutores_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceAutor/listadoAutoresResponse" message="tns:IServiceAutor_listadoAutores_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="listadoAutoresO">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceAutor/listadoAutoresO" message="tns:IServiceAutor_listadoAutoresO_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceAutor/listadoAutoresOResponse" message="tns:IServiceAutor_listadoAutoresO_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="listadoPais">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceAutor/listadoPais" message="tns:IServiceAutor_listadoPais_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceAutor/listadoPaisResponse" message="tns:IServiceAutor_listadoPais_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="nuevoAutor">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceAutor/nuevoAutor" message="tns:IServiceAutor_nuevoAutor_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceAutor/nuevoAutorResponse" message="tns:IServiceAutor_nuevoAutor_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="actualizaAutor">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceAutor/actualizaAutor" message="tns:IServiceAutor_actualizaAutor_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceAutor/actualizaAutorResponse" message="tns:IServiceAutor_actualizaAutor_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="eliminaAutor">
+      <wsdl:input wsaw:Action="http://tempuri.org/IServiceAutor/eliminaAutor" message="tns:IServiceAutor_eliminaAutor_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IServiceAutor/eliminaAutorResponse" message="tns:IServiceAutor_eliminaAutor_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IServiceAutor" type="tns:IServiceAutor">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="listadoAutores">
+      <soap:operation soapAction="http://tempuri.org/IServiceAutor/listadoAutores" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="listadoAutoresO">
+      <soap:operation soapAction="http://tempuri.org/IServiceAutor/listadoAutoresO" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="listadoPais">
+      <soap:operation soapAction="http://tempuri.org/IServiceAutor/listadoPais" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="nuevoAutor">
+      <soap:operation soapAction="http://tempuri.org/IServiceAutor/nuevoAutor" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="actualizaAutor">
+      <soap:operation soapAction="http://tempuri.org/IServiceAutor/actualizaAutor" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="eliminaAutor">
+      <soap:operation soapAction="http://tempuri.org/IServiceAutor/eliminaAutor" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="ServiceAutor">
+    <wsdl:port name="BasicHttpBinding_IServiceAutor" binding="tns:BasicHttpBinding_IServiceAutor">
+      <soap:address location="http://localhost:50887/ServiceAutor.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>
